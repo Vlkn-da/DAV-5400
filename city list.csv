@@ -1,0 +1,67 @@
+﻿State,City (County/Parish),Year/Level
+Texas,Brownsville (Cameron),1980(3)
+,Corpus Christi (Nueces),1970(3)
+,Port Aransas (Aransas),1970(3)
+,Matagorda (Matagorda),1961(4)
+,Freeport (Brazoria)        ,1983(3)  
+,Galveston (Galveston),1983(3)
+,Houston (Harris),1941(3)
+,Beaumont (Jefferson),2005(3)
+Louisiana,Cameron (Cameron),2005(3)
+,Morgan City (St. Mary),1992(3)
+,Houma (Terrebonne),1992(3)
+,New Orleans (Orleans),2005(3)
+Mississippi   ,Bay St. Louis (Hancock),2005(3)
+,Biloxi (Harrison),2005(3)
+,Pascagoula (Jackson),2005(3)
+Alabama,Mobile (Mobile),2004(3)
+,Gulf Shores (Baldwin),2004(3)
+Florida,Pensacola (Escambia),2005(3)
+,Destin (Okaloosa),1995(3)
+,Panama City (Bay),1995(3)
+,Apalachicola (Franklin),1985(3)
+,Homosassa (Citrus),1950(3)
+,St. Petersburg (Pinellas),1921(3)
+,Tampa (Hillsboro),1921(3)
+,Sarasota (Sarasota),1944(3)
+,Fort Myers (Lee),2004(4)
+,Naples (Collier),2005(3)
+,Key West (Monroe),2005(3)
+,Miami (Miami-Dade),1992(5)
+,Fort Lauderdale (Broward),1950(3)
+,W. Palm Beach (Palm Beach),2004(3)
+,Stuart (Martin),2004(3)
+,Fort Pierce (St. Lucie),2004(3)
+Florida,Vero Beach (Indian River),2004(3)
+,Cocoa Beach (Brevard),2004(3)
+,Daytona Beach (Volusia),<1880
+,St. Augustine (St. Johns),<1880
+,Jacksonville (Duval),<1880
+,Fernandina Beach (Nassau),<1880
+Georgia,Brunswick (Camden),1898(4)
+,Savannah (Chatham),1893(3)
+S. Carolina,Hilton Head (Beaufort),1959(3)
+,Charleston (Charleston),1989(4)
+,Myrtle Beach (Horry),1954(4)  
+N. Carolina,Wilmington (New Hanover),1996(3)
+,Morehead City (Carteret),1996(3)
+,Cape Hatteras (Dare),1993(3)
+Virginia,Virginia Beach (Virginia Beach),1944(3)
+,Norfolk (Norfolk),<1851
+Maryland,Ocean City (Worcester),<1851
+,Baltimore (Baltimore),<1851
+Delaware,Rehoboth Beach (Sussex),<1851
+,Wilmington (New Castle),<1851
+New Jersey    ,Cape May (Cape May),<1851
+,Atlantic City (Atlantic),<1851
+New York,New York City (New York),<1851
+,Westhampton (Suffolk),1985(3)
+Connecticut   ,New London (New London),1938(3)
+,New Haven (New Haven),1938(3)
+,Bridgeport (Fairfield),1954(3)
+Rhode Island  ,Providence (Providence),1954(3)
+Mass.,Cape Cod (Barnstable),1954(3)
+,Boston (Suffolk),1869(3)
+N. Hampshire,Portsmouth (Rockingham),<1851
+Maine,Portland (Cumberland),<1851
+,Eastport (Washington),<1851
